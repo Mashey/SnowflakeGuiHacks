@@ -4,3 +4,9 @@
 .idea/*
 
 node_modules/
+
+# data files
+data/grants_to_roles.*
+
+# IDE
+.vscode/
